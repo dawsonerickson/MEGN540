@@ -40,6 +40,11 @@ static inline void MSG_FLAG_Init(MSG_FLAG_t* p_flag)
 }
 
 
+
+// THIS TESTS MY ABILITY!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+
 /**
  * Function MSG_FLAG_Execute indicates if the action associated with the message flag should be executed
  * in the main loop both because its active and because its time.
